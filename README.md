@@ -167,7 +167,8 @@ Publish the website in the LocalHost.
 
 
 
-![alt text]({756FB71B-A817-4A86-837C-7D103620E54E}.png)
+<img width="1183" height="856" alt="camu" src="https://github.com/user-attachments/assets/3dc74a6c-2b5b-46fa-ac54-40ac1264c705" />
+
 
 
 ## RESULT:
